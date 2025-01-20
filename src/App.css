@@ -10,7 +10,8 @@ html {
 
 .app-name {
 	font-size: 2.3rem;
-	color: slategrey;
+	color: black;
+  opacity: 0.5;
 	margin-bottom: 16px;
 }
 
